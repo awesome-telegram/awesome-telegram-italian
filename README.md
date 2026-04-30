@@ -17,3 +17,4 @@ Canali, gruppi e bot Telegram italiani.
 
 ## Bot Telegram
 
+- [Cyber Collector](https://t.me/cybercollectorbot) — Bot Telegram gratuito per scaricare video TikTok (senza watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook. Nessuna registrazione, nessuna pubblicità. [Sito web](https://cybercollector.hitkey.io)
